@@ -1,7 +1,16 @@
- *.o
-   *.exe
-   calc
-   calc.exe
-   *.out
-   build/
-   .vscode/
+# Build artifacts
+*.o
+*.exe
+calc
+
+# Backup files
+*~
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+*.idea/

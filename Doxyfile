@@ -1,0 +1,7 @@
+PROJECT_NAME           = "Legacy Loan Calculator"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = src/
+RECURSIVE              = YES
+GENERATE_LATEX         = NO
+EXTRACT_ALL            = YES
+SOURCE_BROWSER         = YES
